@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Game2048</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="score">得分</string>
+    <string name="bestscore">最高分</string>
+    <string name="newgame">新游戏</string>
+
+</resources>
